@@ -7,3 +7,6 @@ Random Forest- predicted the sales using Random Forest Regressor, build pipeline
 
 Trends- Using trend analysis i predict the time series forecasting generated graphs.
 
+#conclusion
+
+According to me trend analysis gives the best prediction of sales in future.
