@@ -5,5 +5,5 @@ Linear Regression - Using linear regression, i done time series forecasting with
 
 Random Forest- predicted the sales using Random Forest Regressor, build pipelines,evaluate the model.
 
-Trends- Using trend analysis i predict the time series forecasting generted graphs.
+Trends- Using trend analysis i predict the time series forecasting generated graphs.
 
